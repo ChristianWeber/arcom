@@ -139,8 +139,10 @@ a:hover {
   visibility: hidden;
   opacity: 0;
 }
+
+
 #hero-area {
-  background: url('../images/arcom_main.png') no-repeat 50%;
+  /*background: url('../images/arcom_main.png') no-repeat 50%;*/
   background-size: cover;
   background-attachment: fixed;
   padding: 230px 0;
